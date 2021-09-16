@@ -1,0 +1,1 @@
+Project to training skills in react and redux
